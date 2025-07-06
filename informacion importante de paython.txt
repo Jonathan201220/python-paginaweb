@@ -1,0 +1,27 @@
+para inprimir ayuda en la consola 
+	Python -h
+para clasificar si el valor es entero o numero "int - 
+	Type
+este es para decirle al visual voy a esta haciendo cambios, y que el solo se reinicie 
+	app.run(debug=True)
+esta pagina sirve para varias cosas para paython 
+	Bootstrap
+para darle forma al codigo 
+	control +shift p -- formato al documento
+para darle color al texto y al fonfo 
+	body {
+    background: rgb(195, 36, 107);
+    color: rgb(55, 168, 89);
+    }
+
+este sirver para agilizar el proceso. PARA EL abount.html
+	{% extends "layout.html" %}
+
+	{% block content %}
+	{% endblock %}
+
+entorno virtual averiguar
+
+este sirve para cambiar el cursor a la manito y poder darle click. css
+	cursor: pointer;
+
